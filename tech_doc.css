@@ -1,4 +1,4 @@
-div.main-body {
+.main-body {
 	display: grid;
 	grid-template-columns: minmax(300px , auto)1fr;
 	grid-template-areas: "navbar mainContent";
